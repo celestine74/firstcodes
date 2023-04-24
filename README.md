@@ -1,3 +1,3 @@
 # firstcodes
 These are my initial python codes during my Data Science Journey with skillslash Academy.
-Basic conditional statements - if else
+Basic conditional statements, loops, nested loops and lamda functions
